@@ -1,0 +1,10 @@
+decision,data/sounds/se/decision.mp3,SE
+select,data/sounds/se/select.mp3,SE
+cancel,data/sounds/se/cancel.mp3,SE
+mainBGM,data/sounds/bgm/mainBGM.ogg,BGM
+stageSelectBGM,data/sounds/bgm/stageSelectBGM.ogg,BGM
+titleBGM,data/sounds/bgm/titleBGM.ogg,BGM
+extendRope,data/sounds/se/extendRope.mp3,SE
+clearJingle,data/sounds/se/clearJingle.ogg,SE
+beep,data/sounds/se/beep.mp3,SE
+allClearBGM,data/sounds/bgm/allClearBGM.ogg,BGM
